@@ -1,0 +1,120 @@
+
+body
+{
+  background-image: url('Nature.jpg');
+
+     background-repeat: no-repeat;
+     background-attachment: scroll;
+     background-size: 1550px 680px;
+     text-align: center;
+     font-family: 'Playfair Display', serif;
+     font-size: 20px;
+    color:#120136;
+}
+H1
+{
+font-size: 90px;
+color:#6f0000;
+  width:40%;
+  margin: 450px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+}
+H3
+{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 30px;
+color:#120136;
+}
+h2
+{
+
+  font-family: 'Kaushan Script', cursive;
+  font-size: 40px;
+color:#40bad5;
+}
+hr
+{
+  margin: 70px auto 10px auto;
+  border:dotted #77d8d8 6px;
+  border-bottom: none;
+  width: 5%;
+}
+.Birds
+{
+  position: absolute;
+  right:300px;
+  top:0;
+}
+.me
+{
+  margin: 2px auto 10px auto;
+  width: 50%;
+  text-align: center;
+}
+.Profile
+{
+  vertical-align: middle;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+.P-Img
+{
+  vertical-align: middle;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  float:right;
+
+}
+.Web-Img
+{
+  vertical-align: middle;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  float:left;
+  margin-right: 20px;
+
+}
+.skill
+{
+  width:50%;
+  margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.Button {
+  font-family: 'times new roman';
+  font-weight: bold;
+  color: #FFFFFF !important;
+  font-size: 23px;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 13px 27px;
+  -moz-border-radius: 14px;
+  -webkit-border-radius: 14px;
+  border-radius: 14px;
+  border: 2px solid #40BAD5;
+  background: #40BAD5;
+}
+.Button:hover {
+  color: #14396A !important;
+  background: #40BAD5;
+}
+.last
+{
+  border: solid #120136 3px;
+  margin: 50px auto 10px auto;
+width: 100%;
+}
+.bottom
+{
+  background-color: #1f4068;
+  color: #f6d743;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+a {
+  color: #f6d743;
+  padding-right: 30px;
+}
